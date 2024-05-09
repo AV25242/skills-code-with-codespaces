@@ -6,7 +6,7 @@ name: Step 4, Personalize your Codespace
 # This will run every time we push to main#setup.sh.
 # Reference: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
 on:
-  workflow_dispatch:
+  
   push:
     branches:
       - main
